@@ -1,0 +1,23 @@
+{
+  "name": "dvdkeeper",
+  "version": "1.0.0",
+  "description": "simple security bot to keep your discord servers safe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavideGioia/discord_security_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavideGioia/discord_security_bot/issues"
+  },
+  "homepage": "https://github.com/DavideGioia/discord_security_bot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
